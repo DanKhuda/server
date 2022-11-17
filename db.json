@@ -1,29 +1,129 @@
 {
-  "posts": [
+  "categories": [
     {
       "id": 1,
-      "title": "hello one",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet dolor eligendi in iste repudiandae, vel. (1)"
+      "title": "Фільми",
+      "words": [
+        {
+          "id": 1,
+          "title": "Форсаж"
+        },
+        {
+          "id": 2,
+          "title": "Дзвінок"
+        },
+        {
+          "id": 3,
+          "title": "Форест Гамп"
+        },
+        {
+          "id": 4,
+          "title": "Втеча з Шоушенку"
+        },
+        {
+          "id": 5,
+          "title": "Список Шиндлера"
+        },
+        {
+          "id": 6,
+          "title": "Гладіатор"
+        },
+        {
+          "id": 7,
+          "title": "Трансформери"
+        },
+
+        {
+          "id": 8,
+          "title": "Месники"
+        },
+        {
+          "id": 9,
+          "title": "Людина павук"
+        },
+        {
+          "id": 10,
+          "title": "Один день"
+        }
+      ]
     },
     {
       "id": 2,
-      "title": "hello two",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet dolor eligendi in iste repudiandae, vel. (2)"
+      "title": "Особистості",
+      "words": [
+        {
+          "id": 1,
+          "title": "Стівен Кінг"
+        }
+        {
+          "id": 2,
+          "title": "Джейсон Стейтем"
+        },
+        {
+          "id": 3,
+          "title": "Орландо Блума"
+        },
+        {
+          "id": 4,
+          "title": "Бонапарт Наполеон"
+        },
+        {
+          "id": 5,
+          "title": "Періс Хілтон"
+        }
+      ]
     },
     {
       "id": 3,
-      "title": "hello three",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet dolor eligendi in iste repudiandae, vel. (3)"
+      "title": "Бренди",
+      "words": [
+        {
+          "id": 1,
+          "title": "Apple"
+        },
+        {
+          "id": 2,
+          "title": "Google"
+        },
+        {
+          "id": 3,
+          "title": "Netflix"
+        },
+        {
+          "id": 4,
+          "title": "Amazon"
+        },
+        {
+          "id": 5,
+          "title": "Facebook"
+        }
+      ]
     },
     {
       "id": 4,
-      "title": "hello four",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet dolor eligendi in iste repudiandae, vel. (4)"
-    },
-    {
-      "id": 5,
-      "title": "hello five",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet dolor eligendi in iste repudiandae, vel. (5)"
+      "title": "Гефграфія",
+      "words": [
+        {
+          "id": 1,
+          "title": "Амазонка"
+        },
+        {
+          "id": 2,
+          "title": "Вінниця"
+        },
+        {
+          "id": 3,
+          "title": "Іспанія"
+        },
+        {
+          "id": 4,
+          "title": "Чорне море"
+        },
+        {
+          "id": 5,
+          "title": "Тихий океан"
+        }
+      ]
     }
   ],
   "profile": {
